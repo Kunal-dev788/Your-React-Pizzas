@@ -67,8 +67,8 @@ vite.config.ts             # Vite config
 ### 1️⃣ Clone the repo
 
 ```bash
-git clone https://github.com/<your-username>/fast-react-pizza.git
-cd fast-react-pizza
+git clone https://github.com/Kunal-dev788/Your-React-Pizzas.git
+cd Your-React-Pizzas
 ```
 
 ### 2️⃣ Install dependencies
@@ -101,7 +101,7 @@ This project can be deployed on **Netlify** or **Vercel**.
 
 (Add your demo video/gif here)
 
-🔗 [Live Demo on Netlify](https://your-fast-react-pizza.netlify.app)
+🔗 [Live Demo on Netlify](https://youreactpizzas.netlify.app/)
 
 ---
 
