@@ -99,7 +99,7 @@ This project can be deployed on **Netlify** or **Vercel**.
 
 ## 🎥 Demo
 
-(Add your demo video/gif here)
+https://github.com/user-attachments/assets/24e5c98d-60a9-4a0a-8d15-99954b734016
 
 🔗 [Live Demo on Netlify](https://youreactpizzas.netlify.app/)
 
